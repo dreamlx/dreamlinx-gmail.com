@@ -19,7 +19,9 @@ en:
     dashboard: "Dashboard"
     dashboard_welcome:
       welcome: "Welcome to COSCO SHIPPING Lines."
-      call_to_action: "To add dashboard sections, checkout 'app/admin/dashboard.rb'"
+      call_image: "http://ww1.sinaimg.cn/large/a3c78df9ly1gdc0fh4r9ij20rs0kudkd.jpg"
+      call_to_action: "http://baidu.com"
+      Info: '广告路径 config/environments/en.yml'
     view: "View"
     edit: "Edit"
     delete: "Delete"
