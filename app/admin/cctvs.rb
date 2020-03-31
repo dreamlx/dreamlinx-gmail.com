@@ -21,7 +21,7 @@ ActiveAdmin.register Cctv do
       f.input  :ip
       f.input :title
       f.input :username, hint: 'admin', input_html: {value: 'admin'}
-      f.input :password, hint: 'admin', value: 'admin'
+      f.input :password, hint: 'admin', input_html: {value: 'admin'}
     end
     f.actions
   end
